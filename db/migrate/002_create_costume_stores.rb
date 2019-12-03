@@ -2,6 +2,6 @@
 
 class CreateCostumeStores < ActiveRecord::Migrate[4.2]
   def change
-    create_table
+    
   end
 end
